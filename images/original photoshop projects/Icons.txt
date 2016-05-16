@@ -1,0 +1,26 @@
+TODO:
+—
+user, player,
+
+animal, monster,
+
+fungus,
+
+
+
+
+—
+
+
+DONE:
+—
+
+stone, sand, dirt
+
+crop, bush, tree
+grass,
+water, ice,
+fire, lava,
+food,
+ore
+—
